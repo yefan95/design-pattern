@@ -11,6 +11,7 @@
     <modules>
         <module>factory-method</module>
         <module>singleton</module>
+        <module>adapter</module>
     </modules>
 
 
